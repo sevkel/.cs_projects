@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6CE0EA-5494-4274-B96B-A9EB017433D6}|MatrixToolKit\\MatrixToolKit.csproj|c:\\users\\sevke\\desktop\\dev\\c#_learning\\cicd_unittests\\matrixtoolkit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6CE0EA-5494-4274-B96B-A9EB017433D6}|MatrixToolKit\\MatrixToolKit.csproj|solutionrelative:matrixtoolkit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6CE0EA-5494-4274-B96B-A9EB017433D6}|MatrixToolKit\\MatrixToolKit.csproj|c:\\users\\sevke\\desktop\\dev\\c#_learning\\cicd_unittests\\matrixtoolkit\\services\\io\\matrixprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6CE0EA-5494-4274-B96B-A9EB017433D6}|MatrixToolKit\\MatrixToolKit.csproj|solutionrelative:matrixtoolkit\\services\\io\\matrixprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatrixPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolKit\\Services\\IO\\MatrixPrinter.cs",
+              "RelativeDocumentMoniker": "MatrixToolKit\\Services\\IO\\MatrixPrinter.cs",
+              "ToolTip": "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolKit\\Services\\IO\\MatrixPrinter.cs",
+              "RelativeToolTip": "MatrixToolKit\\Services\\IO\\MatrixPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:23:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolKit\\Program.cs",
+              "RelativeDocumentMoniker": "MatrixToolKit\\Program.cs",
+              "ToolTip": "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolKit\\Program.cs",
+              "RelativeToolTip": "MatrixToolKit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:18:03.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MatrixToolkit.Tests/MatrixToolkit.Tests.csproj" />
+  <Project Path="MatrixToolKit/MatrixToolKit.csproj" />
+</Solution>
