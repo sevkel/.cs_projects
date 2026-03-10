@@ -1,0 +1,35 @@
+name: .NET Core Check
+
+# Wann soll der Workflow starten?
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    # Wir nutzen ein aktuelles Ubuntu-System als virtuellen PC
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Code vom Repo auf den virtuellen PC kopieren
+    - uses: actions/checkout@v4
+
+    # 2. .NET Umgebung installieren
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x # Oder 7.0.x, je nachdem was du nutzt
+
+    # 3. Alle Abhängigkeiten herunterladen
+    - name: Restore dependencies
+      run: dotnet restore
+
+    # 4. Das Projekt kompilieren
+    - name: Build
+      run: dotnet build --no-restore
+
+    # 5. Deine Unit Tests ausführen
+    - name: Test
+      run: dotnet test --no-build --verbosity normal
