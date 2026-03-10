@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using 
-    .Models; // Wichtig: Damit das Model bekannt ist!
+using MatrixToolkit.Models; // Wichtig: Damit das Model bekannt ist!
 
 namespace MatrixToolkit.Generation;
 

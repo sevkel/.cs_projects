@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolKit\\MatrixToolKit.csproj": {}
+    "C:\\Users\\sevke\\Desktop\\Dev\\C#\\CICD_UnitTests\\MatrixToolKit\\MatrixToolKit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolKit\\MatrixToolKit.csproj": {
+    "C:\\Users\\sevke\\Desktop\\Dev\\C#\\CICD_UnitTests\\MatrixToolKit\\MatrixToolKit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolKit\\MatrixToolKit.csproj",
+        "projectUniqueName": "C:\\Users\\sevke\\Desktop\\Dev\\C#\\CICD_UnitTests\\MatrixToolKit\\MatrixToolKit.csproj",
         "projectName": "MatrixToolKit",
-        "projectPath": "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolKit\\MatrixToolKit.csproj",
+        "projectPath": "C:\\Users\\sevke\\Desktop\\Dev\\C#\\CICD_UnitTests\\MatrixToolKit\\MatrixToolKit.csproj",
         "packagesPath": "C:\\Users\\sevke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolKit\\obj\\",
+        "outputPath": "C:\\Users\\sevke\\Desktop\\Dev\\C#\\CICD_UnitTests\\MatrixToolKit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sevke\\AppData\\Roaming\\NuGet\\NuGet.Config",

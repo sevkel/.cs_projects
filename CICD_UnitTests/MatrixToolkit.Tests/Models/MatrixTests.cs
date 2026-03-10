@@ -9,7 +9,7 @@ namespace MatrixToolkit.Tests.Models
     public class MatrixTests
     {
         [Fact]
-        public void MyMatrix_Constructor_ReturnNotNullArray()
+        public void MyMatrix_Constructor_ReturnsNotNullArray()
         {
             // Arrange
             int[,] emptyData = new int[0, 0];

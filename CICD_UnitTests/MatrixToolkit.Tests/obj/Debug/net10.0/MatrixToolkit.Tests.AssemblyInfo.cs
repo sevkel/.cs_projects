@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatrixToolkit.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3919458363ef5be5af9bcff7e5dff49d1209267f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e5c89b9e91b5b1f702d71e8e8b775160728db4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatrixToolkit.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatrixToolkit.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

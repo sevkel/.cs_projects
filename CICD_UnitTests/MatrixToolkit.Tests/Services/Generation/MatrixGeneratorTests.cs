@@ -10,7 +10,7 @@ namespace MatrixToolkit.Tests.Services.Generation
     public class MatrixGeneratorTests
     {
         [Fact]
-        public void MatrixGenerator_CreateRandom_ShouldReturnCorrectDimensions()
+        public void MatrixGenerator_CreateRandom_ReturnsCorrectDimensions()
         {
             // Arrange
             int rows = 2;
@@ -26,7 +26,7 @@ namespace MatrixToolkit.Tests.Services.Generation
         }
 
         [Fact]
-        public void MatrixGenerator_CreateRandom_ShouldReturnNotNull()
+        public void MatrixGenerator_CreateRandom_ReturnsNotNull()
         {
             // Act
             var randMatrix = MatrixGenerator.CreateRandom(2, 2);
@@ -37,7 +37,7 @@ namespace MatrixToolkit.Tests.Services.Generation
         }
 
         [Fact]
-        public void MatrixGenerator_CreateRandom_ShouldReturnValuesInPlusMinusMaxRange()
+        public void MatrixGenerator_CreateRandom_ReturnsValuesInPlusMinusMaxRange()
         {
             // Act
             var randMatrix = MatrixGenerator.CreateRandom(4, 4, 13);

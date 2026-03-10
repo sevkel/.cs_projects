@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Wi1eqHYBEk=",
+  "dgSpecHash": "HqdCm0ngVzQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sevke\\Desktop\\Dev\\C#_learning\\CICD_UnitTests\\MatrixToolkit.Tests\\MatrixToolkit.Tests.csproj",
+  "projectFilePath": "C:\\Users\\sevke\\Desktop\\Dev\\C#\\CICD_UnitTests\\MatrixToolkit.Tests\\MatrixToolkit.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sevke\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\sevke\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
